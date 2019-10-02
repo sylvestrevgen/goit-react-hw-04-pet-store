@@ -11,7 +11,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.1.2"
   },
-  "homepage": "https://sylvestrevgen.github.io/goit-react-hw-04-pet-store/",
+  "homepage": "https://sylvestrevgen.github.io/goit-react-hw-04-pet-store",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
