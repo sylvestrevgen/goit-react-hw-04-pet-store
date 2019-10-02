@@ -1,0 +1,56 @@
+.details {
+  padding-top: 40px;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #504e4e;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.icon {
+  margin-right: 12px;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.heading {
+  margin: 0 0 26px 0;
+}
+
+.baseContent {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.img {
+  margin-right: 30px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 2%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.infoLine {
+  display: block;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.description {
+  line-height: 24px;
+}

@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  width: 100%;
+  background-color: #504e4e;
+  padding: 25px 80px;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 20px;
+  outline: none;
+}
+
+.link:not(:last-child) {
+  margin-right: 30px;
+}
+
+.active {
+  color: #e98b10;
+}

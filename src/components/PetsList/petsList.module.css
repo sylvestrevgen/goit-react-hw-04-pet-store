@@ -1,0 +1,16 @@
+.list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2%;
+}
+
+.listItem {
+  padding: 10px;
+  box-shadow: 0 1px 3px rgba(191, 205, 222, 0.75);
+}
+
+.link {
+  text-decoration: none;
+  color: #343434;
+  outline: none;
+}

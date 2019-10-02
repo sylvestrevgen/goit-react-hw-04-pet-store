@@ -1,0 +1,10 @@
+.img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 2%;
+}
+
+.caption {
+  text-align: center;
+}
